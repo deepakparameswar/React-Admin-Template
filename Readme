@@ -1,0 +1,19 @@
+// application creation
+npx create-react-app . -> to creact react app inside current directory
+npx create-react-app <app-name> -> to creact react app in side new directory
+
+// install material icons and core
+npm i @material-ui/icons
+npm install @material-ui/core
+
+// recharts to make charts
+npm i recharts
+
+// to add scss styles
+npm i node-sass
+
+// to make routing
+npm install --save react-router-dom
+
+// start the application
+npm start
